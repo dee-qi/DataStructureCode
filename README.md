@@ -2,6 +2,8 @@
 
 This is a set of codes to practice data structure.Mostly using c++, sometimes python.
 
+__If my codes help you in someway, please give me a star.Thank you sincerely.__
+
 ### Including codes about:
 
 >> 递归练习
