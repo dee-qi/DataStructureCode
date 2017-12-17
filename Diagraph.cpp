@@ -295,7 +295,7 @@ int main() {
     dg.dfs(1);
     cout << endl;
     cout << "===================================================" << endl;
-    cout << "===Min Spinning Tree " << endl;//深度优先搜索遍历图
+    cout << "===Min Spinning Tree " << endl;//最小生成树
     dg.mst(1);
 
     return 0;
